@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://javascript.plainenglish.io/how-to-recursively-call-apis-to-get-all-results-in-javascript-58be97b035b1?sk=79dd59e864d37f6cf6329ec66acf3a31" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/how-to-recursively-call-apis-to-get-all-results-in-javascript" />
 
 # How to Recursively Call APIs to Get All Results in JavaScript
 ### How to recursively get results per page and finally return them into one result set.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/875/1*qZk0Zee2kLp0fis1eoF_Hg.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_74ec4ee1ba88405194dd8fd5614df357~mv2.png">
 </p>
 
 <br/>
@@ -47,4 +47,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://javascript.plainenglish.io/how-to-recursively-call-apis-to-get-all-results-in-javascript-58be97b035b1?sk=79dd59e864d37f6cf6329ec66acf3a31
+[Article]: https://www.developmentsimplyput.com/post/how-to-recursively-call-apis-to-get-all-results-in-javascript
